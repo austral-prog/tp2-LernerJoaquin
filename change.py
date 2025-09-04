@@ -4,10 +4,10 @@ def change():
     vuelto= money - expense
     print("Ingresar gasto:")
     print(expense)
-    print("dinero recibido:")
+    print("Dinero recibido:")
     print(money)
-    print("\nvuelto")
-    print("\npesos:")
+    print("\nVuelto")
+    print("\nPesos:")
     print(int(money - expense))
     print("Centavos:")
     print(int((vuelto - int(vuelto))*100))
